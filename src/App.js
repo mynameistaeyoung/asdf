@@ -24,7 +24,7 @@ function App() {
 
   return (
     <>
-      <div className='header'>
+      <div className='header1'>
         <input
           type='text'
           value={contents}
