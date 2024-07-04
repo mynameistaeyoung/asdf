@@ -34,7 +34,7 @@ function App() {
         <h1>Todo List</h1>
       </div>
       <div>
-        <form className='app-style'>
+        <form className='app-style1'>
           {
             todo.map(item => {
               return (
